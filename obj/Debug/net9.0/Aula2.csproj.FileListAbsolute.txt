@@ -1,0 +1,14 @@
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/bin/Debug/net9.0/Aula2
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/bin/Debug/net9.0/Aula2.deps.json
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/bin/Debug/net9.0/Aula2.runtimeconfig.json
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/bin/Debug/net9.0/Aula2.dll
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/bin/Debug/net9.0/Aula2.pdb
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/obj/Debug/net9.0/Aula2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/obj/Debug/net9.0/Aula2.AssemblyInfoInputs.cache
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/obj/Debug/net9.0/Aula2.AssemblyInfo.cs
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/obj/Debug/net9.0/Aula2.csproj.CoreCompileInputs.cache
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/obj/Debug/net9.0/Aula2.dll
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/obj/Debug/net9.0/refint/Aula2.dll
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/obj/Debug/net9.0/Aula2.pdb
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/obj/Debug/net9.0/Aula2.genruntimeconfig.cache
+/Users/eduardocavalcante/Programação/Estudo/Aulas/Aula2/obj/Debug/net9.0/ref/Aula2.dll

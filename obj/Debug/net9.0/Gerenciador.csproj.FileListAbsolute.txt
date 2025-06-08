@@ -1,0 +1,14 @@
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/bin/Debug/net9.0/Gerenciador
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/bin/Debug/net9.0/Gerenciador.deps.json
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/bin/Debug/net9.0/Gerenciador.runtimeconfig.json
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/bin/Debug/net9.0/Gerenciador.dll
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/bin/Debug/net9.0/Gerenciador.pdb
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/obj/Debug/net9.0/Gerenciador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/obj/Debug/net9.0/Gerenciador.AssemblyInfoInputs.cache
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/obj/Debug/net9.0/Gerenciador.AssemblyInfo.cs
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/obj/Debug/net9.0/Gerenciador.csproj.CoreCompileInputs.cache
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/obj/Debug/net9.0/Gerenciador.dll
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/obj/Debug/net9.0/refint/Gerenciador.dll
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/obj/Debug/net9.0/Gerenciador.pdb
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/obj/Debug/net9.0/Gerenciador.genruntimeconfig.cache
+/Users/eduardocavalcante/Programação/Estudo/Aulas/GerenciadorDeTarefas/obj/Debug/net9.0/ref/Gerenciador.dll
